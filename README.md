@@ -1,4 +1,4 @@
-﻿# E-Commerce API
+# E-Commerce API
 
 E-Commerce API is a simple and user-friendly e-commerce application that uses MongoDB for data storage. 
 This API provides basic functionalities such as adding, updating, deleting, and listing products.
@@ -19,7 +19,7 @@ These instructions will help you get the project up and running on your local ma
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/denizciMert/e-commerce-api.git
+    git clone https://github.com/denizciMert/E-CommerceAPI
     cd e-commerce-api
     ```
 
